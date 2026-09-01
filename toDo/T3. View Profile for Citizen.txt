@@ -1,0 +1,1 @@
+As a citizen, I want to view my profile details including my name, email address, gender, phone number, date of birth, and profile picture, so that I can review and confirm that my personal information stored in the system is accurate and up to date.
