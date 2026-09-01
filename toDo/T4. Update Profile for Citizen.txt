@@ -1,0 +1,1 @@
+As a citizen, I want to update my profile information such as my name, email address, gender, phone number, and date of birth, so that my personal data stays correct and I receive a confirmation once the changes are saved.
