@@ -1,0 +1,1 @@
+As a system administrator, I want to monitor system activities and usage across the platform, so that I can track how the system is being used and review logs or reports when needed.

@@ -1,0 +1,1 @@
+As a system administrator, I want to delete user accounts after a confirmation step, so that unauthorized or inactive users are removed from the system to keep it secure.

@@ -1,0 +1,1 @@
+As a system administrator, I want to log into the admin panel using my administrator credentials, so that I can securely access the tools needed to manage the entire system.

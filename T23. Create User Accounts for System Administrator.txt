@@ -1,0 +1,1 @@
+As a system administrator, I want to create new user accounts for citizens and government officers, so that they can be granted access to the system with confirmation once the account is set up.

@@ -1,0 +1,1 @@
+As a system administrator, I want to update existing user accounts, so that the information for citizens and officers stays correct and any changes are saved successfully.
