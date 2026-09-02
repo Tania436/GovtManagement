@@ -1,0 +1,1 @@
+As a government officer, I want to approve a valid application, so that citizens whose requests meet all requirements receive their service and the status is marked as approved in the system.
