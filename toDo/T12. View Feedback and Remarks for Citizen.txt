@@ -1,0 +1,1 @@
+As a citizen, I want to view the feedback and remarks left by the government officer on my application, so that I can understand the reasoning behind their decision.

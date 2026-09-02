@@ -1,0 +1,1 @@
+As a government officer, I want to view the list of applications submitted by citizens, so that I can see all the pending requests that need to be reviewed and processed.

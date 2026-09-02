@@ -1,0 +1,1 @@
+As a citizen, I want to view a list of all the applications I have submitted, so that I can manage and monitor multiple government service requests at the same time.
