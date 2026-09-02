@@ -1,0 +1,1 @@
+As a government officer, I want to update the status of an application as it moves through processing, so that the progress is accurately tracked and visible to the citizen at every stage.

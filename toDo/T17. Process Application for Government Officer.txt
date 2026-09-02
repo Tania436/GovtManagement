@@ -1,0 +1,1 @@
+As a government officer, I want to process a citizen's submitted application, so that I can evaluate the request and move it forward through the appropriate stages of review.

@@ -1,0 +1,1 @@
+As a government officer, I want to reject an invalid or incomplete application along with a reason, so that requests that do not meet the requirements are denied and the citizen understands why.
