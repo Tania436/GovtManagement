@@ -1,0 +1,1 @@
+As a citizen, I want to browse and select from the displayed list of available government services, so that I can choose the specific service I need before starting my application.
