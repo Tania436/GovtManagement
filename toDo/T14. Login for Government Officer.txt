@@ -1,0 +1,1 @@
+As a government officer, I want to log into the system using my official credentials, so that I can securely access the officer panel and manage citizen applications.

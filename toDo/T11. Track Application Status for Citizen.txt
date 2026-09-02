@@ -1,0 +1,1 @@
+As a citizen, I want to track the status of my submitted application, so that I know whether it is pending, approved, or rejected at any given time.

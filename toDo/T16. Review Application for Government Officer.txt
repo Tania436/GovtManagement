@@ -1,0 +1,1 @@
+As a government officer, I want to review the details and uploaded documents of a submitted application, so that I can verify their accuracy and completeness before making a decision.
