@@ -1,0 +1,1 @@
+As a citizen, I want to upload the required supporting documents in a valid file format, so that my service application is complete and ready for review by a government officer.

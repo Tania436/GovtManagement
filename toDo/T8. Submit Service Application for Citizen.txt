@@ -1,0 +1,1 @@
+As a citizen, I want to fill out and submit a service application form for my selected service, so that I can formally request the government service and receive a confirmation that my submission was successful.
