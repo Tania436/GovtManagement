@@ -1,0 +1,1 @@
+As a citizen, I want to create a new account by entering my personal details such as full name, email address, username, password, gender, phone number, and date of birth, so that I can officially enroll in the system and gain access to available government services.

@@ -1,0 +1,1 @@
+As a citizen, I want to log into the system using my registered username and password, so that I can securely access my personal dashboard and manage my government service applications.
